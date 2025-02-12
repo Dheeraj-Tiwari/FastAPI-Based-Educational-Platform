@@ -1,0 +1,8 @@
+{
+    "_id": "ObjectId",
+    "assignment_id": "ObjectId",
+    "faculty_id": "ObjectId",
+    "comments": "Good work!",
+    "rating": 4.5
+  }
+  

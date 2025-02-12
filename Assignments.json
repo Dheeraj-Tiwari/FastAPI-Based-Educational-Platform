@@ -1,0 +1,8 @@
+{
+    "_id": "ObjectId",
+    "title": "Assignment 1",
+    "description": "ML Project",
+    "student_id": "ObjectId",
+    "file_url": "s3://bucket/path"
+  }
+  

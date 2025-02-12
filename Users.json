@@ -1,0 +1,8 @@
+{
+    "_id": "ObjectId",
+    "name": "John Doe",
+    "email": "johndoe@vit.ac.in",
+    "password": "hashed_password",
+    "role": "student"
+  }
+  
